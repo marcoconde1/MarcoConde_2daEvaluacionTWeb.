@@ -39,7 +39,7 @@ Ejecuta el servidor de desarrollo:
 npm run dev
 ```
 
-## 📁 Estructura del proyecto + Endpoints de la API + Información mostrada + Diseño
+## 📁 Estructura del proyecto 
 
 ```plaintext
 src/
@@ -112,7 +112,7 @@ src/
 
 ## 👤 Autor
 
-**[Marco Antonio Conde Valdez]**  
+**Marco Antonio Conde Valdez**  
 Ingeniería de Sistemas  
 Universidad Católica Boliviana "San Pablo"  
 Abril 2025
